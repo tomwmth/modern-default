@@ -1,6 +1,6 @@
 {
   "pack": {
-    "pack_format": 1,
-    "description": "The default look and feel of Minecraft (built-in)"
+    "description": "The modern look of Minecraft, backported to 1.8.9",
+    "pack_format": 1
   }
 }
